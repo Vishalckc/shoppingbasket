@@ -1,5 +1,5 @@
 # shoppingbasket
-Java program to calculate the total price of a basket of shopping, taking into account the special offers
+Java program to calculate the total price of a shopping basket, taking into account the special offers
 
 **Sequence Diagram Below:**
 
